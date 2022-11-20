@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [ahmadpiracha@github.io](ahmadpiracha@github.io)
 
-- 💬 Ask me about **React, Python,**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **ahmadpiracha2@hotmail.com**
 
