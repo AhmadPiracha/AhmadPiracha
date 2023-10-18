@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm Ahmad Piracha</h1>
-<h3 align="center">A passionate Frontend developer</h3>
+<h1 align="center">Hi there! 👋 I'm Ahmad Piracha</h1>
+<h3 align="center">A passionate Frontend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadpiracha&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadpiracha" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ahmadpiracha3" target="blank"><img src="https://img.shields.io/twitter/follow/ahmadpiracha3?logo=twitter&style=for-the-badge" alt="ahmadpiracha3" /></a> </p>
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **NEXT JS, Tailwind CSS**
 
-- 👨‍💻 All of my projects are available at [ahmadpiracha.netlify.app](ahmadpiracha.netlify.app)
+- 👨‍💻 Explore my projects at [ahmadpiracha.netlify.app](https://ahmadpiracha.netlify.app)
 
-- 💬 Ask me about **react,tailwind,next js**
+- 💬 Ask me about **React, Tailwind CSS, Next.js**
 
-- 📫 How to reach me **ahmadpiracha3@gmail.com**
+- 📫 Reach me at **ahmadpiracha3@gmail.com**
 
-- 📄 Know about my experiences [ahmadpiracha.netlify.app](ahmadpiracha.netlify.app)
+- 📄 Learn more about my experiences at [ahmadpiracha.netlify.app](https://ahmadpiracha.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,5 +27,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmadpiracha&show_icons=true&locale=en&layout=compact" alt="ahmadpiracha" /></p>
 
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadpiracha&" alt="ahmadpiracha" /></p>
+
+🌟 I'm currently focusing on mastering Next.js and improving my skills in Tailwind CSS. Let's build amazing things together! 🚀
