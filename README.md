@@ -125,16 +125,12 @@
 <img src="https://github-readme-stats.vercel.app/api?username=ahmadpiracha&show_icons=true&theme=github_dark">
 </p>
 <hr>
-<br>
 
 ## Most Used Languages 📚
 <br>
 <p align='center'>
 <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ahmadpiracha&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
 </p>
-
-<hr>
-<br>
 
 ------
 Credit: [Ahmad Piracha](https://github.com/ahmadpiracha)
