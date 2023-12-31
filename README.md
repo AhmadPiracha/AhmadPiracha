@@ -136,6 +136,7 @@
 <hr>
 <br>
 
-Credits: [Ahmad Piracha](https://github.com/ahmadpiracha)
+------
+Credit: [Ahmad Piracha](https://github.com/ahmadpiracha)
 
 Last Edited on: 01/01/2024
