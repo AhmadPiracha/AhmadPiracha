@@ -21,15 +21,22 @@
 ### Connect with me 🔗 :
 <br>
 <p align='center'>
+<a href="https://github.com/ahmadpiracha/">
+<img src="https://img.shields.io/badge/Github-211F1F?style=for-the-badge&logo=GitHub&logoColor=ffffff"></a> 
+<a href="https://www.linkedin.com/in/ahmad-waseem-piracha/">
+<img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=ffffff"></a>
+<a href="https://x.facebook.com/ahmadwaseempiracha">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=ffffff"></a>
+<a href="https://twitter.com/ahmadpiracha3">
+<img src="https://img.shields.io/badge/Twitter-08A0E9?style=for-the-badge&logo=Twitter&logoColor=ffffff"></a>  
+<a href="https://www.instagram.com/ahmadpiracha/">
+<img src="https://img.shields.io/badge/Instagram-DD2A7B?style=for-the-badge&logo=Instagram&logoColor=ffffff"></a>
 <a href="mailto:ahmadpiracha3@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/ahmadpiracha" target="_blank">
-<img src="https://img.shields.io/badge/ahmadpiracha-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/ahmad-waseem-piracha" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
+</a>
 </p>
-<br>
+<br><br>
+
 
 ## Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px>
 
