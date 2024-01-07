@@ -19,8 +19,6 @@
 
 
 ### Connect with me 🔗 :
-<br>
-<p align='center'>
 <a href="https://github.com/ahmadpiracha/">
 <img src="https://img.shields.io/badge/Github-211F1F?style=for-the-badge&logo=GitHub&logoColor=ffffff"></a> 
 <a href="https://www.linkedin.com/in/ahmad-waseem-piracha/">
@@ -34,7 +32,6 @@
 <a href="mailto:ahmadpiracha3@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-</p>
 <br><br>
 
 
