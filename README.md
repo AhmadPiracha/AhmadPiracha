@@ -11,9 +11,6 @@
 
 - 💬 Ask me about **React,React Native, Next.js, Node.js**
 
-- 📫 Reach me at **ahmadpiracha3@gmail.com**
-
-
 
 ### Connect with me 🔗 :
 <a href="https://github.com/ahmadpiracha/">
