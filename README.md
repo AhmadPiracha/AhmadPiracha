@@ -9,13 +9,10 @@
 
 - 🌱 I’m currently learning **Backend Development**
 
-- 👨‍💻 Explore my projects at [ahmadpiracha.netlify.app](https://ahmadpiracha.netlify.app)
-
 - 💬 Ask me about **React,React Native, Next.js, Node.js**
 
 - 📫 Reach me at **ahmadpiracha3@gmail.com**
 
-- 📄 Learn more about my experiences at [ahmadpiracha.netlify.app](https://ahmadpiracha.netlify.app)
 
 
 ### Connect with me 🔗 :
